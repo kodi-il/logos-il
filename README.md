@@ -10,5 +10,5 @@ My image editing skill are very limited, anyone that can offer better logos is w
 
 All the rights on the logos belongs to their creators and the stations,  
 I've not created these images, they're only included here for the benefit of the users and not for misuse.  
-if you're the rightfull owner of one or more of these logos you're welcome to open an issue or to send a mail in the matter for myfoolishgames-at-gmaildotcom
+if you're the rightfull owner of one or more of these logos you're welcome to open an issue or to send a mail in the matter for admin at xbmc-ildotcom
 
