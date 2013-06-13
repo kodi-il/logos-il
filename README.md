@@ -1,4 +1,4 @@
-Idan+ Logos
+Logos-IL
 ---------------------------------------------------
 
 These logos are intended to be used with a pvr backend for XBMC, Tvheadend is great for this.   
