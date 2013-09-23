@@ -1,7 +1,8 @@
 Logos-IL
 ---------------------------------------------------
 
-These logos are intended to be used with a pvr backend for XBMC, Tvheadend is great for this.   
+These logos are intended to be used with a pvr backend for XBMC (Tvheadend, VDR ...).  
+If your backend requires that the logos would be stored on a web server then you can link to the images on http://xbmc-il.com/logos/ .  
 
 My image editing skill are very limited, anyone that can offer better logos is welcome to PR or open an issue.   
 
