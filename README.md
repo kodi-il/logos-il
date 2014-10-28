@@ -2,7 +2,7 @@ Logos-IL
 ---------------------------------------------------
 
 These logos are intended to be used with a pvr backend for XBMC (Tvheadend, VDR ...).  
-If your backend requires that the logos would be stored on a web server then you can link to the images on http://xbmc-il.com/logos/ .  
+If your backend requires that the logos would be stored on a web server then you can link to the images on http://logos.xbmc-il.com .  
 
 My image editing skill are very limited, anyone that can offer better logos is welcome to PR or open an issue.   
 
@@ -11,5 +11,4 @@ My image editing skill are very limited, anyone that can offer better logos is w
 
 All the rights on the logos belongs to their creators and the stations,  
 I've not created these images, they're only included here for the benefit of the users and not for misuse and by all means falls under "Fair use".  
-if you're the rightfull owner of one or more of these logos you're welcome to open an issue or to send a mail in the matter for admin at xbmc-ildotcom
-
+if you're the rightfull owner of one or more of these logos you're welcome to open an issue or to send a mail in the matter for admin at xbmc.il.com@gmail.com
